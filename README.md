@@ -56,8 +56,8 @@ As you can see, the script logs every check. When it finds an identical frame, i
 
 2. **Download this script**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/obs-display-monitor
-   cd obs-display-monitor
+   git clone git@github.com:yayuanli/OBS_Restart_Capture_Stuck_Source.git
+   cd OBS_Restart_Capture_Stuck_Source
    ```
 
 3. **Install dependencies**:
